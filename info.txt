@@ -1,0 +1,5 @@
+1. Creamos la tabla User
+		php artisan migrate
+
+2. Llenamos la Tabla con algunos datos
+
